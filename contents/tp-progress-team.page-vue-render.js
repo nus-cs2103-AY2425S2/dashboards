@@ -8,7 +8,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 with(this){return _c('h1',{staticClass:"display-4",attrs:{"id":"tp-progress-dashboard"}},[_v("tP progress dashboard"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#tp-progress-dashboard","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_v("[This page was last updated on "),_c('mark',[_v("2025-04-02 @23:48")]),_v("]")])])}
+with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_v("[This page was last updated on "),_c('mark',[_v("2025-04-03 @08:14")]),_v("]")])])}
 },function anonymous(
 ) {
 with(this){return _c('nav',[_c('ul',{staticClass:"pagination pagination-lg"},[_c('li',{staticClass:"page-item active"},[_c('a',{staticClass:"page-link"},[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Team Progress")])]),_v(" "),_c('li',{staticClass:"page-item"},[_c('a',{staticClass:"page-link",attrs:{"href":"/dashboards/contents/tp-progress.html"}},[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Individual Progress")])])])])}
@@ -548,6 +548,6 @@ with(this){return _c('td',[_c('div',[_c('p',[_c('a',{attrs:{"href":"https://gith
 with(this){return _c('td',[_c('div',[_c('img',{attrs:{"src":"https://github.com/AY2425S2-CS2103-F15-4/tp/workflows/Java%20CI/badge.svg"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Thu, 3 Apr 2025, 0:48:11 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Thu, 3 Apr 2025, 9:15:01 GMT+8]")])])])}
 }];
   
